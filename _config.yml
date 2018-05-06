@@ -1,0 +1,18 @@
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+
+# Setup
+title:               notjustmoreidlechatter
+tagline:             'musings on music and other things'
+description:         'musings on music and other things by <a href="https://twitter.com/emilymlawton">emily lawton</a>'
+url:                 http://lanyon.getpoole.com
+baseurl:             ''
+paginate:            10
+
+# About/contact
+author:
+  name:              Emily Lawton
+  url:               https://twitter.com/emilymlawton
+  email:             emilymlawton@gmail.com
