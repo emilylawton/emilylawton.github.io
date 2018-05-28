@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Teenage Engineering Pocket Operator PO-35 Speak Review
+title: Teenage Engineering Pocket Operator PO 35 Speak Review
 comments: true
 ---
 
