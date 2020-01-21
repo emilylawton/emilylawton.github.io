@@ -5,8 +5,8 @@ permalink:           pretty
 
 # Setup
 title:               notjustmoreidlechatter
-tagline:             'musings on music and other things'
-description:         'musings on music and other things by <a href="https://twitter.com/emilymlawton">emily lawton</a>'
+tagline:             'musings on music, running, and other things'
+description:         'musings on music, running, and other things by <a href="https://twitter.com/emilymlawton">emily lawton</a>'
 url:                 http://lanyon.getpoole.com
 baseurl:             ''
 paginate:            10
