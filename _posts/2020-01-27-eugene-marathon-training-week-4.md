@@ -1,3 +1,9 @@
+---
+layout: post
+title: Eugene Marathon Training Week 3 
+comments: true
+---
+
 This week, I maintained the same intensity as last week but reduced my weekly mileage slightly to make sure I recover before I ramp up mileage next week. I felt surprisingly fresh on Sunday! Maybe it was the new running shoes. Perhaps the soft, dirt trails in Discovery Park did my legs some good on Saturday. I'm savoring the feeling now, because I don't anticipate feeling the same way a week from now. Onwards and upwards. 
 
 **Monday**: Yoga + core - hip flexors brutally sore from skiing<br />
