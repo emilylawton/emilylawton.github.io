@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Eugene Marathon Training Week 3 
+title: Eugene Marathon Training Week 4
 comments: true
 ---
 
