@@ -10,5 +10,5 @@ comments: true
 **Thursday**: 5 miles (hilly route) + core + 26.2 Athletes for Yoga<br />
 **Friday**: Rest<br />
 **Saturday**: 3 miles easy run to Dempsey Indoor Track to watch the UW Invitational (watched Bowerman Track Club and Oiselle athletes race!)<br />
-**Sunday**: 13 miles easy 
+**Sunday**: 13 miles easy<br />
 **Total Mileage**: 34.3
